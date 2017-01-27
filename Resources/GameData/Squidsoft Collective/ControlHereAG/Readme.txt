@@ -13,7 +13,8 @@ This mod includes version checking using MiniAVC. If you opt-in, it will use the
 
 ## Usage
 
-Add the new "Control From Here" action in the SPH or VAB just like any other action.
+1. Enable Advanced Tweakables for your save.
+2. Add the new "Control From Here" action in the SPH or VAB just like any other action.
 
 ## History
 

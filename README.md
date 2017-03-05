@@ -1,1 +1,33 @@
-[KSP Forum Post](http://forum.kerbalspaceprogram.com/index.php?/topic/155635-12-controlhereag-v100/)
+# **THIS MOD IS NOT SUPPORTED IN KSP 1.3PRE**
+
+# ControlHereAG
+
+Adds an action group entry for "Control From Here" to docking ports and command capable parts.
+
+Do note that if for some reason a part is both a docking port and a command module, the docking port will take priority.
+
+This mod includes version checking using MiniAVC. If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. For a more comprehensive version checking experience, please download the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/index.php?/topic/72169-12-ksp-avc-add-on-version-checker-plugin-1162-miniavc-ksp-avc-online-2016-10-13/).
+
+## Installation
+
+1. Install [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-121-module-manager-275-november-29th-2016-better-late-than-never/) or use the provided version (may be out of date!)
+2. Copy Squidsoft Collective into your KSP/GameData folder. Allow files to be overwritten if necessary.
+
+## Usage
+
+1. Enable Advanced Tweakables for your save.
+2. Add the new "Control From Here" action in the SPH or VAB just like any other action.
+
+## History
+
+See the changelog.txt file or git history.
+
+## Special Thanks
+
+- DasValdez for always being inspiring and classy. https://twitch.tv/DasValdez
+- Popskyy for the creativity fuel. https://popskyy.bandcamp.com/
+
+## License
+
+GNU General Public License v3, 29 June 2007
+See LICENSE.md for more details.

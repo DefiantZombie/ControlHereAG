@@ -8,7 +8,8 @@
 
         private bool _disabled = true;
 
-        [KSPAction("Control From Here", KSPActionGroup.None, advancedTweakable = true)]
+        [KSPAction(actionGroup = KSPActionGroup.None, advancedTweakable = true,
+            guiName = "#SSC_CHAG_000001")]
         public void ControlHereAction(KSPActionParam param)
         {
             if (_disabled) return;
